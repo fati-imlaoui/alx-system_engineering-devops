@@ -1,2 +1,2 @@
-#!/bin/bash
-mkdir Â/tmp/my_first_directory
+#!/bin/bash 
+mkdir /tmp/my_firest_directory
