@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -empty | Ù‚Ørev |rev | cut -d '/' -f 1 | Ù‚Ørev
